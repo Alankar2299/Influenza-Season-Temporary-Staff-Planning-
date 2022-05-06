@@ -13,11 +13,13 @@ Tableau
 ### Visualization Tools
 Tableau
 
-### Tableau links
+### Tableau Story Board link
+https://public.tableau.com/app/profile/alankar2299/viz/USA-InfluenzaDeathsAnslysis-Storyboard/Influenza-StoryBoard?publish=yes
 
-https://public.tableau.com/app/profile/alankar2299/viz/NTSB_Aircraft_Accidents/Story1?publish=yes
+### Video Presentation
+https://youtu.be/hQpM73-zKj8
 
-### Final Presentation
+### Final PowerPoint Presentation
 
 https://github.com/Alankar2299/Influenza-Season-Temporary-Staff-Planning-/blob/main/220102_Influenza%20Project%20Presentation.pptx
 
