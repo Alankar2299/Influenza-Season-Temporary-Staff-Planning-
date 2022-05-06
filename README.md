@@ -15,7 +15,7 @@ Tableau
 
 ### Tableau links
 
-https://public.tableau.com/app/profile/alankar2299/viz/Excercise-1_16395964555320/Influenza-StoryBoard?publish=yes
+https://public.tableau.com/app/profile/alankar2299/viz/NTSB_Aircraft_Accidents/Story1?publish=yes
 
 ### Final Presentation
 
